@@ -1,4 +1,3 @@
-# ibmassignments
 GitHub repo for submitting the Module 5 final assignment of "Tools for Data Science" course for IBM Data Science Professional Certificate on Coursera
 
 Course info: https://coursera.org/share/af1d9b2487c5aedf24e0f4cc4edb2440
